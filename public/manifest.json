@@ -1,0 +1,22 @@
+{
+  "name": "Mi Bucket List",
+  "short_name": "Bucket List",
+  "description": "Las cosas que harán que valga la pena haber vivido.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0f",
+  "theme_color": "#e8c547",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
